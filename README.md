@@ -2,11 +2,11 @@
 
 - Docker based Cyber Security Training Web Platform (Docker tabanlı Siber Güvenlik Web Eğitim Platformu)
 
-# Gereksinimler
+# Gereksinimler 🕵️‍♂️
 
 - Docker kurulu bir işletim sistemi gereklidir. (Linux-Windows-Mac)
   
-# Kurulum
+# Kurulum ⏳
 
   1. Öncelikle projeyi indiriniz :  ``` git clone https://github.com/istec-iuc/letmehack.git ```
  
@@ -31,28 +31,34 @@
   5. ``` Localhost:80 ``` üzerinden projeye tarayıcınızdan erişebilirsiniz.
  
 
-# Projenin Görünümü
+# Projenin Görünümü 📸
 
-![Image of 1](https://cdn.discordapp.com/attachments/861169509288247296/879642386689572894/Ekran_Resmi_2021-08-24_11.19.46.png)
-![Image of 3](https://cdn.discordapp.com/attachments/861169509288247296/879642177406377984/Ekran_Resmi_2021-08-24_11.19.58.png)
+<img width="1307" alt="1" src="https://user-images.githubusercontent.com/60710585/169040587-6882df58-69cd-43a3-b9f0-917e6d29f646.png">
+<img width="1307" alt="2" src="https://user-images.githubusercontent.com/60710585/169040682-3d17bf27-57da-4d2c-a892-3c08e387eeb5.png">
 
-# Kullanıcı Kayıdı
+
+# Kullanıcı Kayıdı 📝
 
 - Projedeki lablara kayıt olmadan erişmeye çalıştığınızda aşağıdaki gibi bir görüntüyle karşılaşırsınız. LetMeHack projesinde kullanıcı kaydı olmadan lablara erişim mümkün değildir.
 
-![Image of 4](https://cdn.discordapp.com/attachments/861169509288247296/879642178345922560/Ekran_Resmi_2021-08-24_11.21.03.png)
+<img width="1307" alt="3" src="https://user-images.githubusercontent.com/60710585/169040923-99153b0b-79bc-4768-ab05-a06baed40cb8.png">
+
 
 - Bunu çözmek için sitenin sağ üst tarafındaki kayıt butonuna tıklayıp gerekli bilgileri doldurduktan sonra ücretsiz bir şekilde kaydolabilirsiniz. Sonrasında aşağıdaki resimdeki gibi giriş ekranından kullanıcı girişinizi yapabilirsiniz.
 
-![Image of 2](https://cdn.discordapp.com/attachments/861169509288247296/879642163460329523/Ekran_Resmi_2021-08-24_11.23.08.png)
+<img width="1307" alt="4" src="https://user-images.githubusercontent.com/60710585/169040943-5b309095-d29f-4849-abbd-fea62f81e32c.png">
 
-- Artık lablara eriştiğinizde aşağıdaki resimdeki gibi lab başlat butonu aktif olacaktır. Butona tıkladığınızda size atanan **link:port** şeklindeki url ye tıklayarak labı çözmeye başlayabilirsiniz.
 
-![Image of 6](https://cdn.discordapp.com/attachments/861169509288247296/879642188416446484/Ekran_Resmi_2021-08-24_11.22.10.png)
+- Artık platformdaki lablara eriştiğinizde aşağıdaki resimdeki gibi lab başlat butonu aktif olacaktır. 
 
-![Image of 7](https://cdn.discordapp.com/attachments/861169509288247296/879642198470180894/Ekran_Resmi_2021-08-24_11.21.59.png)
+<img width="1307" alt="5" src="https://user-images.githubusercontent.com/60710585/169040971-102de1f4-8c66-48a2-b14c-8e8fb34c7b03.png">
 
-# İletişim
+- Butona tıkladığınızda size atanan **link:port** şeklindeki url ye tıklayarak labları çözmeye başlayabilirsiniz.
+
+<img width="1307" alt="6" src="https://user-images.githubusercontent.com/60710585/169041030-fd185dea-4cd4-46a6-ae4d-18242744b84a.png">
+
+
+# İletişim ☎️
 
 ## LinkedIn:  
   - [Zeynep GÖK](https://www.linkedin.com/in/zeynepgok/)
